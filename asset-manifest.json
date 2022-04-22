@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nlp4sg_website/static/css/main.4d532e19.css",
-    "main.js": "/nlp4sg_website/static/js/main.469712c5.js",
+    "main.js": "/nlp4sg_website/static/js/main.b7957da7.js",
     "static/js/787.62a2c9c4.chunk.js": "/nlp4sg_website/static/js/787.62a2c9c4.chunk.js",
     "index.html": "/nlp4sg_website/index.html",
     "main.4d532e19.css.map": "/nlp4sg_website/static/css/main.4d532e19.css.map",
-    "main.469712c5.js.map": "/nlp4sg_website/static/js/main.469712c5.js.map",
+    "main.b7957da7.js.map": "/nlp4sg_website/static/js/main.b7957da7.js.map",
     "787.62a2c9c4.chunk.js.map": "/nlp4sg_website/static/js/787.62a2c9c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d532e19.css",
-    "static/js/main.469712c5.js"
+    "static/js/main.b7957da7.js"
   ]
 }
